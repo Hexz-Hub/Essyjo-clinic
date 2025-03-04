@@ -1,0 +1,101 @@
+/*basics functions */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/* ======hero section========= */
+#herowrite{
+    margin-top: 70px;
+    color: rgb(33, 33, 90);
+    font-size: 57px;
+}
+
+#first{
+    margin-left: 75px;
+}  
+a{
+    color: white;
+}
+button{
+    font-size: 20px;
+}
+#navbarSupportedContent li :hover{
+    background-color: brown;
+    color: white;
+}
+
+
+
+.stats-section {
+    background-color:white;
+    color: wheat;
+    padding: 40px 0;
+    text-align: center;
+  }
+  .services-section {
+    padding: 60px 0;
+  }
+  .appointment-section {
+    background-color: #c7cbce5d;
+    padding: 60px 0;
+  }
+  /* .testimonials-section {
+    background-color: #eaf2f8;
+    padding: 60px 0; */
+  
+  .partners-section {
+    padding: 40px 0;
+  }
+  #testimony{
+    background-color: gray;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+  }
+  footer {
+    background-color: wheat;
+    color: brown;
+    padding: 40px 0px;
+    font-weight: bolder;
+    
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: fit-content;
+    text-align: center;
+    text-decoration: none;
+    border-radius:50% ;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+ 
+ .fa-whatsapp{
+  background-color: rgb(78, 153, 78);
+ }
+  
